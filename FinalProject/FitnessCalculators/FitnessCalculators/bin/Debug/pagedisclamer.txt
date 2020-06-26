@@ -1,0 +1,5 @@
+This program is a financial calculator, providing very elementary personal finance
+
+calculations. It is not intended to provide any advise or recommendations.
+
+Please register as a new user, press enter to begin.

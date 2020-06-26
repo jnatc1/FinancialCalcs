@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\CSC205\FinalProject\FitnessCalculators\FitnessCalculators\bin\Debug\FitnessCalculators.exe.config
+\\Mac\Home\Documents\CSC205\FinalProject\FitnessCalculators\FitnessCalculators\bin\Debug\FitnessCalculators.exe
+\\Mac\Home\Documents\CSC205\FinalProject\FitnessCalculators\FitnessCalculators\bin\Debug\FitnessCalculators.pdb
+\\Mac\Home\Documents\CSC205\FinalProject\FitnessCalculators\FitnessCalculators\obj\Debug\FitnessCalculators.csprojAssemblyReference.cache
+\\Mac\Home\Documents\CSC205\FinalProject\FitnessCalculators\FitnessCalculators\obj\Debug\FitnessCalculators.exe
+\\Mac\Home\Documents\CSC205\FinalProject\FitnessCalculators\FitnessCalculators\obj\Debug\FitnessCalculators.pdb
+C:\FinalProject\FitnessCalculators\FitnessCalculators\bin\Debug\FitnessCalculators.exe.config
+C:\FinalProject\FitnessCalculators\FitnessCalculators\bin\Debug\FitnessCalculators.exe
+C:\FinalProject\FitnessCalculators\FitnessCalculators\bin\Debug\FitnessCalculators.pdb
+C:\FinalProject\FitnessCalculators\FitnessCalculators\obj\Debug\FitnessCalculators.csprojAssemblyReference.cache
+C:\FinalProject\FitnessCalculators\FitnessCalculators\obj\Debug\FitnessCalculators.exe
+C:\FinalProject\FitnessCalculators\FitnessCalculators\obj\Debug\FitnessCalculators.pdb
